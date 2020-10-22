@@ -1,6 +1,6 @@
 ![Junior Full Stack JavaScript Developer](https://github.com/brianlockerbie/brianlockerbie/blob/main/brian-lockerbie-header1.png)
 
-### Brian Lockerbie
+# Brian Lockerbie
 I'm Brian from Canada, and I am a Junior Full Stack Developer with experience in JavaScript (Express, React, Node.js). I do content on Front-end & Back-end Development. I really enjoy learning new languages and frameworks like React and React Native. I am passionate about Mobile/Web Development and Design.
 
 ## Skills and Experience
