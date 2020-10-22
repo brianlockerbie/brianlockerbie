@@ -5,13 +5,16 @@ I'm Brian from Canada, and I am a Junior Full Stack Developer with experience in
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
+* 🚀 Express
 * ⚛ React
 * 📱 React Native
+* 🕹 Object-Oriented Programming
+* 🖱 MySQL
 
 
 ## Status
 - 🔭 I’m currently working on updating my portfolio website. 
-- 🌱 I’m currently learning React Native 
+- ⌨️ I’m currently learning React Native 
 - 🤔 I’m looking for help with networking, meeting people in the dev community, and finding opportunities where I may contribute 👍 
 - 📫 How to reach me: brian.lockerbie@gmail.com 
 
