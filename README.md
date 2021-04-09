@@ -8,12 +8,13 @@ I'm Brian from Canada, and I am a Junior Full Stack Developer with experience in
 * 🚀 Express
 * ⚛ React
 * 📱 React Native
-* 🕹 Object-Oriented Programming
 * 🖱 MySQL
+* 💾 NodeJS
+* 🕹 Object-Oriented Programming
 
 
 ## Status
-- 🔭 I’m currently working on updating new JavaScript projects. 
+- 🔭 I’m currently working on new JavaScript projects. 
 - ⌨️ I’m currently learning Advanced CSS and SASS.
 - 🤔 I’m looking for help with networking, meeting people in the dev community, and finding opportunities where I may contribute 👍 
 - 📫 How to reach me: brian.lockerbie@gmail.com 
