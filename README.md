@@ -1,7 +1,7 @@
 ![Junior Full Stack JavaScript Developer](https://github.com/brianlockerbie/brianlockerbie/blob/main/brian-lockerbie-header1.png)
 
 # Brian Lockerbie
-Hello, my name is Brian. I am a Full Stack Developer with NodeJS, React, Express, and SQL skills. I am a recent graduate from the University of Toronto and have successfully acquired my U of T SCS Coding Bootcamp Certificate. I am also a graduate of the school Treehouse with my Full-Stack JavaScript TechDegree. I bring many certifications from UdeMy that specialize in React. I am passionate about all web/mobile design and development. I really enjoy working with the front-end aspect of web development. As well as providing an engaging user experience on all platforms. I am determined, reliable, honest, fast and efficient. There is nothing I cannot learn, all you need to do is give me an opportunity.
+Hello, my name is Brian. I am a Full Stack Developer with NodeJS, React, Express, and SQL skills. I am a recent graduate from the University of Toronto and have successfully acquired my U of T SCS Coding Bootcamp Certificate. I am also a graduate of the school Treehouse with my Full-Stack JavaScript TechDegree. I bring many certifications from UdeMy that specialize in React. I am passionate about all web/mobile design and development. I really enjoy working with the front-end aspect of web development. As well as providing an engaging user experience on all platforms. I am determined, reliable, honest, fast and efficient.
 
 Continual education and keeping up with the latest technology trends are essential to me. 
 ## Skills and Experience
