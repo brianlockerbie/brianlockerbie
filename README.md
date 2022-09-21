@@ -16,7 +16,7 @@ Continual education and keeping up with the latest technology trends are essenti
 ## Status
 - 🎓 I recently just graduated from  University of Toronto SCS Coding Bootcamp.
 - 🔭 I’m currently looking for employment.
-- ⌨️ I’m currently learning Advanced CSS.
+- ⌨️ I’m currently learning Data Structures & Algorithms.
 - 🤔 I’m looking for help with networking, meeting people in the dev community, and finding opportunities where I may contribute 👍 
 - 📫 How to reach me: brian.lockerbie@gmail.com 
 
